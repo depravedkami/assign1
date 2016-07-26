@@ -18,7 +18,7 @@ void setup () {
   b=floor(random(40,380));
   c=floor(random(20,211));
   d=floor(random(640));
-  e=floor(random(31,420));
+  e=floor(random(32,420));
   speed=floor(random(3,7));
   x=0;
   y=-640;
